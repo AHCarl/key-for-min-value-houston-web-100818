@@ -4,4 +4,7 @@
 def key_for_min_value(name_hash)
   min_key = nil 
   max_key = 10000000000000000000000000000000000000000000000
+  
+  hash.map do |k, v|
+    if v
 end
